@@ -5,7 +5,7 @@ CTO of [Colisweb](https://github.com/Colisweb) since June 2018, I manage the IT 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tyrcho&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrcho&layout=compact)
 
-## ⚡ Technologies
+⚡ Technologies
 
 ![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=scala)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
